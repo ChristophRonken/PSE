@@ -1,0 +1,22 @@
+
+Airport:	 ()
+->callsign:	original
+->gates:	37383632
+->runways:	0
+
+Airport:	 ()
+->callsign:	New
+->gates:	1
+->runways:	0
+
+Airplane:	0 ()
+->model:	
+->type:	
+->engine:	
+->size:	
+
+Airplane:	 ()
+->model:	
+->type:	
+->engine:	
+->size:	

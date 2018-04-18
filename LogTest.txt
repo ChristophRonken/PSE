@@ -1,0 +1,128 @@
+Airport added (Antwerp International Airport)
+Runway added (11R) to airport (Antwerp International Airport)
+Plane added (Cessna 842)
+Plane added (Cessna 843)
+Preparing airplane (7) for landing in Antwerp International Airport
+7 is approaching Antwerp International Airport at 10.000 ft.
+7 descents to a height of 9000
+7 descents to a height of 8000
+7 descents to a height of 7000
+7 descents to a height of 6000
+7 descents to a height of 5000
+7 descents to a height of 4000
+7 descents to a height of 3000
+7 descents to a height of 2000
+7 descents to a height of 1000
+7 is landing at Runway11R
+Airplane (7) landed in Antwerp International Airport
+Airplane (7) is now at runway 11R
+
+Sending airplane (7) to gate (1)
+Airplane (7) is taxiing to gate 1
+Runway (11R) is now unoccupied
+Airplane (7) is now at gate 1
+
+Sending airplane (7) to gate (0)
+Airplane (7) is taxiing to gate 0
+Gate (1) is now unoccupied
+Airplane (7) is now at gate 0
+
+Sending airplane () to gate (1)
+Airplane () is taxiing to gate 1
+Airplane () is now at gate 1
+
+Preparing airplane (7) for departure.
+5 exited airplane 7 at gate 0 of Antwerp International Airport
+7 has been checked for technical malfunction
+7 has been refueled
+5 boarded airplane 7 at gate 0 of Antwerp International Airport
+
+Runway added (tweede) to airport (Antwerp International Airport)
+Sending airplane (7) to runway (tweede)
+Arplane 7 is taxiing to tweede
+Gate (0) is now unoccupied
+Airplane (7) is now at runway tweede
+
+Sending airplane (7) to runway (11R)
+Arplane 7 is taxiing to 11R
+Runway (tweede) is now unoccupied
+Airplane (7) is now at runway 11R
+
+Sending airplane () to runway (tweede)
+Airplane () is now at runway tweede
+
+Sending airplane 7 for departure
+Airplane (7) is taking off at Antwerp International Airport
+Airplane (7) ascended to 1000ft
+Airplane (7) ascended to 2000ft
+Airplane (7) ascended to 3000ft
+Airplane (7) ascended to 4000ft
+Airplane (7) ascended to 5000ft
+Airplane (7) has left Antwerp International Airport
+
+Runway added (eersterunway) to airport ()
+7 is approaching  at 10.000 ft.
+7 descents to a height of 9000
+7 descents to a height of 8000
+7 descents to a height of 7000
+7 descents to a height of 6000
+7 descents to a height of 5000
+7 descents to a height of 4000
+7 descents to a height of 3000
+7 descents to a height of 2000
+7 descents to a height of 1000
+7 is landing at Runwayeersterunway
+Airplane (7) landed in 
+Airplane (7) is now at runway eersterunway
+
+Airport added (Antwerp International Airport)
+Runway added (11R) to airport (Antwerp International Airport)
+Plane added (Cessna 842)
+Plane added (Cessna 843)
+Sending airplane () to gate (1)
+Airplane () is taxiing to gate 1
+Airplane () is now at gate 1
+
+Runway Deleted (11R)
+Runway added (13R) to airport (7)
+Sending airplane () to runway (13R)
+Arplane  is taxiing to 13R
+Gate (1) is now unoccupied
+Airplane () is now at runway 13R
+
+Sending airplane () to gate (1)
+Airplane () is taxiing to gate 1
+Runway (13R) is now unoccupied
+Airplane () is now at gate 1
+
+Sending airplane () to gate (0)
+Airplane () is taxiing to gate 0
+Gate (1) is now unoccupied
+Airplane () is now at gate 0
+
+Sending airplane () to gate (1)
+Airplane () is taxiing to gate 1
+Airplane () is now at gate 1
+
+Sending airplane () to runway (12R)
+Arplane  is taxiing to 12R
+Gate (1) is now unoccupied
+Airplane () is now at runway 12R
+
+Gate (0) is now unoccupied
+Airport added (Antwerp International Airport)
+Runway added (11R) to airport (Antwerp International Airport)
+Plane added (Cessna 842)
+Plane added (Cessna 843)
+Airport added (Antwerp International Airport)
+Runway added (11R) to airport (Antwerp International Airport)
+Plane added (Cessna 842)
+Plane added (Cessna 843)
+Runway (Primair) is now unoccupied
+Airport added (Antwerp International Airport)
+Runway added (11R) to airport (Antwerp International Airport)
+Plane added (Cessna 842)
+Plane added (Cessna 843)
+Airplane Deleted (different)
+Airplane Deleted (different)
+End
